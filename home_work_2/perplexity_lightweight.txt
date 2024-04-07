@@ -1,0 +1,2 @@
+perplexity_train,perplexity_val
+1.0091,1.0094
